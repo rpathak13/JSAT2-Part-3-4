@@ -60,4 +60,5 @@ if (foundMovie) {
     console.log(foundMovie);
 } else {
     console.log(`Movie with id ${targetId} not found.`);
+    console.log('0');
 }   
