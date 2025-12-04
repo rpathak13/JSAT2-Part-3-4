@@ -34,3 +34,20 @@ let upperCaseName = myName.toUpperCase();
 let lowerCaseName = myName.toLowerCase();
 console.log("Uppercase name:", upperCaseName);
 console.log("Lowercase name:", lowerCaseName);
+
+//3.5
+let concatString = hello.concat(" ", myName);
+console.log("Concatenated string:", concatString);
+
+let trimmedString = anotherString.trim();
+console.log("Trimmed string:", trimmedString);
+
+let replacedString = myString.replace("is a", "");
+console.log("Replaced string:", replacedString);
+
+let splitString = myString.split(" ");
+console.log("Split string:", splitString);
+
+//3.6
+//3.7
+//3.8
